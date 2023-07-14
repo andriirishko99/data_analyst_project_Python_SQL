@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! This repository showcases my data analyst project focused on web scraping book information from the web, storing it in an SQLite database, and analyzing the data using SQL and Python. This project highlights my skills in data extraction, data cleaning, database management, and deriving valuable insights from book market data.
 
 ### Steps involved in the project:
-- Web Scraping
+- __Web Scraping__ /
 Use Beautiful Soup library to scrape book information from a website. Extract relevant details such as book title, genre, price, rating, and other attributes.
 - Data Cleaning and Storage
 Clean the scraped data by removing any unnecessary characters, handling missing values, and ensuring data consistency. Create an SQLite database and define suitable table to store the book data.
