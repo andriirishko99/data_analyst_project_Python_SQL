@@ -1,5 +1,6 @@
-# data_analyst_project_Python_SQL
-This data analyst project involves web scraping book information from a website, storing it in an SQLite database, and performing data analysis using SQL and Python. The project aims to extract book data, explore trends, and derive insights to understand the book market.
+# Data Analyst Project
+
+Welcome to my GitHub profile! This repository showcases my data analyst project focused on web scraping book information from the web, storing it in an SQLite database, and analyzing the data using SQL and Python. This project highlights my skills in data extraction, data cleaning, database management, and deriving valuable insights from book market data.
 
 ### Steps involved in the project:
 - Web Scraping
