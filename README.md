@@ -5,16 +5,16 @@ Welcome to my GitHub profile! This repository showcases my data analyst project 
 ### Steps involved in the project:
 - __Web Scraping__ <br>
 Use Beautiful Soup library to scrape book information from a website. Extract relevant details such as book title, genre, price, rating, and other attributes.
-- Data Cleaning and Storage
+- __Data Cleaning and Storage__ <br>
 Clean the scraped data by removing any unnecessary characters, handling missing values, and ensuring data consistency. Create an SQLite database and define suitable table to store the book data.
-- Data Analysis
+- __Data Analysis__ <br>
 Utilize SQL queries to analyze the book data and derive insights. Some analysis tasks may include:
     - Calculate statistics such as average prices, highest-rated books, or most popular genres.
     - Analyze price distributions and identify price ranges for different genres.
     - Investigate correlations between book ratings and prices.
-- Visualization
+- __Visualization__ <br>
 Use Python libraries like Matplotlib or Seaborn to create visualizations such as bar charts, scatter plots, or histograms to present the findings of the analysis.
-- Summary and Recommendations
+- __Summary and Recommendations__ <br>
 Summarize the key findings from the analysis and provide actionable recommendations based on the book market insights. 
 
 By combining web scraping, SQLite database management, and SQL analysis, this project enables you to gather book data from the web, store it in a structured format, and analyze it using SQL queries. Python programming allows you to enhance the analysis with additional data cleaning, visualization, and reporting capabilities. This project showcases your skills in data extraction, database management, and analysis techniques for the book industry.
