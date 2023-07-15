@@ -13,7 +13,7 @@ Utilize SQL queries to analyze the book data and derive insights. Some analysis 
     - Analyze price distributions and identify price ranges for different genres.
     - Investigate correlations between book ratings and prices.
 - __Visualization__ <br>
-Use Python library - Matplotlib  to create visualizations such as bar charts, scatter plots, or histograms to present the findings of the analysis.
+Utilize the Matplotlib library in Python to generate visualizations, including bar charts, scatter plots, and histograms, for presenting the findings of data analysis.
 - __Summary and Recommendations__ <br>
 Summarize the key findings from the analysis and provide actionable recommendations based on the book market insights. 
 
