@@ -15,15 +15,15 @@ Utilize SQL queries to analyze the book data and derive insights. Some analysis 
 - __Visualization__ <br>
 Utilize the Matplotlib library in Python to generate visualizations, including bar charts, scatter plots, and histograms, for presenting the findings of data analysis.
 - __Summary and Recommendations__ <br>
-Summarize the key findings from the analysis and provide actionable recommendations based on the book market insights. 
+Summarize the key findings from the analysis and provide recommendations based on the book market insights. 
 
-By combining web scraping, SQLite database management, and SQL analysis, this project enables you to gather book data from the web, store it in a structured format, and analyze it using SQL queries. Python programming allows you to enhance the analysis with additional data cleaning, visualization, and reporting capabilities. This project showcases your skills in data extraction, database management, and analysis techniques for the book industry.
+By combining web scraping, SQLite database management, and SQL analysis, this project enables you to gather book data from the web, store it in a structured format, and analyze it using SQL queries. Python programming allows you to enhance the analysis with additional data cleaning, visualization, and reporting capabilities. This project showcases my skills in data extraction, database management, and analysis techniques for the book industry.
 
 
 # Contributions and Feedback
 I appreciate contributions, suggestions, and feedback to further enhance this project. If you have any ideas or improvements, please feel free to open an issue or submit a pull request. Your contributions are highly valued!
 
 # Contact
-If you have any questions or would like to connect, you can reach me at andrii.rishko.1@gmail.com.
+If you have any questions or would like to connect, you can reach me via email at andrii.rishko.1@gmail.com or through [LinkedIn](https://www.linkedin.com/in/andrii-rishko/).
 
 Thank you for visiting my GitHub profile! I hope you find this project insightful and informative. Happy exploring and analyzing data!
