@@ -23,7 +23,3 @@ If you have any questions or would like to connect, you can reach me via email a
 
 # Reference
 To learn more and enroll in this project, visit the Coursera project [page](https://www.coursera.org/projects/power-bi-desktop?#details)
-
-
-Thank you for visiting my GitHub profile! I hope you find this project insightful and informative. Happy exploring and analyzing data!
-
