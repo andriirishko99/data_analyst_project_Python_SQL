@@ -22,4 +22,4 @@ I appreciate contributions, suggestions, and feedback to further enhance this pr
 If you have any questions or would like to connect, you can reach me via email at andrii.rishko.1@gmail.com or through [LinkedIn](https://www.linkedin.com/in/andrii-rishko/).
 
 # Reference
-To learn more and enroll in this project, visit the Coursera project [page](https://www.coursera.org/projects/power-bi-desktop?#details)
+This project was created as part of the Coursera project network. To learn more and enroll in this project, visit the Coursera project [page](https://www.coursera.org/projects/power-bi-desktop?#details)
